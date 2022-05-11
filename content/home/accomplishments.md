@@ -25,27 +25,27 @@ date_format: Jan 2006
 item:
   - certificate_url: https://www.coursera.org
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2022-05-01'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    title: IBM Technical Support
     url: ''
   - certificate_url: https://www.edx.org
-    date_end: ''
+    date_end: '2022-04-01'
     date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
+    description: 
+    organization: Академия яндекс
+    organization_url: https://practicum.yandex.ru/cpp/
+    title: Разработчик С++
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+  - certificate_url: 
+    date_end: ''
+    date_start: ''
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: 
+    organization_url: 
+    title: ''
     url: ''
 
 design:
