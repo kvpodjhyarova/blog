@@ -9,25 +9,25 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
-subtitle:
+title: Навыки
+subtitle: То, что я умею и люблю делать:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
+  - description: 80%
     icon: r-project
     icon_pack: fab
-    name: R
-  - description: 100%
+    name: Анализ
+  - description: 95%
     icon: chart-line
     icon_pack: fas
-    name: Statistics
-  - description: 10%
+    name: Танцы
+  - description: 60%
     icon: camera-retro
     icon_pack: fas
-    name: Photography
+    name: Программирование
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
