@@ -17,16 +17,16 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 80%
-    icon: r-project
-    icon_pack: fab
+    icon: brain
+    icon_pack: fas
     name: Анализ
-  - description: 95%
-    icon: chart-line
+  - description: 30%
+    icon: child
     icon_pack: fas
-    name: Танцы
+    name: Психология
   - description: 60%
-    icon: camera-retro
-    icon_pack: fas
+    icon: android
+    icon_pack: fab
     name: Программирование
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

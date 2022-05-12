@@ -34,18 +34,18 @@ item:
   - certificate_url: https://www.edx.org
     date_end: '2022-04-01'
     date_start: '2021-01-01'
-    description: 
+    description: ''
     organization: Академия яндекс
     organization_url: https://practicum.yandex.ru/cpp/
     title: Разработчик С++
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - certificate_url: 
-    date_end: ''
-    date_start: ''
-    description: ''
-    organization: 
+    date_end: '2020-07-31'
+    date_start: '2020-04-01'
+    description: 'Знакомство с основными правилами исчисления вероятностей, решение вероятностных задач, с помощью осовения различных методов.'
+    organization: Bioinformatics Institite
     organization_url: 
-    title: ''
+    title: 'Теория вероятностей - наука о случайности'
     url: ''
 
 design:
